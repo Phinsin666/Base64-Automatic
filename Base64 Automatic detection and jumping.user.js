@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  检测页面中的 Base64 内容，当复制时自动解码并跳转到目标 URL。
-// @author       Phinsin
+// @author       Phinsin666
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
